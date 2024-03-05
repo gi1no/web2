@@ -11,3 +11,4 @@ scipy
 vega_datasets
 ipyvolume
 jupyterlab_widgets
+plotly
