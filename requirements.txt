@@ -11,3 +11,4 @@ scipy
 vega_datasets
 ipyvolume
 ipywidgets==7.7.2
+jupyterlab_widgets==3.0.8
