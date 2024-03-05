@@ -10,3 +10,4 @@ matplotlib
 scipy
 vega_datasets
 ipyvolume
+ipywidgets==7.7.2
